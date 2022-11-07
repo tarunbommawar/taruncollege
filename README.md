@@ -1,1 +1,1 @@
-# taruncollege
+# Student-Registration-Form-with-HTML-and-JavaScript
